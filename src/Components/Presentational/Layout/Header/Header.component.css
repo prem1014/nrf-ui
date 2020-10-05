@@ -1,0 +1,21 @@
+.nrf-header {
+    color: #687693;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 500;
+    padding: 15px;
+    border-bottom: 1px solid #f0f1f2;
+}
+
+.nrf-nav {
+    margin-right: -15px;
+    margin-left: -15px;
+    height: 75px;
+    background-color: #009688!important;
+    box-shadow: 0 5px 5px -5px #565656;
+}
+
+.nrf-nav img {
+    height: 90px;
+    width: 90px;
+}
